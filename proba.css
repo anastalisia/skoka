@@ -1,0 +1,178 @@
+.span {
+  	letter-spacing: 0.77em;
+}
+.skoka-titanium {
+  	letter-spacing: 0.25em;
+}
+.h1 {
+  	position: absolute;
+  	top: 23px;
+  	left: 63px;
+  	font-size: 64px;
+}
+.h2 {
+  	position: absolute;
+  	top: 104px;
+  	left: 68px;
+  	display: inline-block;
+  	width: 718px;
+}
+.image-icon {
+  	position: absolute;
+  	top: 96px;
+  	left: 464px;
+  	width: 816.4px;
+  	height: 768.6px;
+  	object-fit: contain;
+}
+.span1 {
+  	font-weight: 500;
+  	font-family: Montserrat;
+}
+.p {
+  	margin: 0;
+}
+.oplata {
+  	position: absolute;
+  	top: 426px;
+  	left: 68px;
+  	font-size: 28px;
+  	display: inline-block;
+  	width: 412px;
+}
+.span2 {
+  	font-weight: 500;
+}
+.delivery {
+  	position: absolute;
+  	top: 517px;
+  	left: 68px;
+  	font-size: 28px;
+  	display: inline-block;
+  	width: 535px;
+}
+.div {
+  	position: absolute;
+  	width: 56.32%;
+  	top: 0%;
+  	left: 0%;
+  	display: inline-block;
+}
+.div1 {
+  	position: absolute;
+  	width: 56.53%;
+  	top: 21.74%;
+  	left: 0%;
+  	display: inline-block;
+}
+.div2 {
+  	position: absolute;
+  	width: 100%;
+  	top: 83.04%;
+  	left: 0%;
+  	display: inline-block;
+}
+.div3 {
+  	position: absolute;
+  	width: 89.08%;
+  	top: 43.48%;
+  	left: 0%;
+  	display: inline-block;
+}
+.spisok {
+  	position: absolute;
+  	height: 100%;
+  	width: 89.46%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 10.54%;
+  	color: #fff;
+  	font-family: Montserrat;
+}
+.span3 {
+  	color: #fff;
+}
+.div4 {
+  	position: absolute;
+  	top: 1.3%;
+  	left: 0%;
+}
+.div5 {
+  	position: absolute;
+  	top: 23.04%;
+  	left: 0%;
+}
+.div6 {
+  	position: absolute;
+  	top: 46.09%;
+  	left: 0%;
+}
+.div7 {
+  	position: absolute;
+  	top: 83.91%;
+  	left: 0%;
+}
+.plus {
+  	position: absolute;
+  	top: 173px;
+  	left: 72px;
+  	width: 522px;
+  	height: 230px;
+  	font-size: 32px;
+  	color: #dd2a1b;
+  	font-family: 'Font Awesome 5 Free';
+}
+.button {
+  	position: absolute;
+  	top: 701px;
+  	left: 717px;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 50px;
+  	background-color: #dd2a1b;
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 381px;
+  	height: 92px;
+}
+.price {
+  	position: absolute;
+  	top: 724px;
+  	left: 765px;
+  	font-size: 30px;
+  	font-weight: 500;
+}
+.div8 {
+  	position: absolute;
+  	top: 135px;
+  	left: 1142px;
+  	font-size: 100px;
+  	letter-spacing: 0.25em;
+  	font-weight: 500;
+  	color: #dd2a1b;
+  	display: inline-block;
+  	width: 177px;
+  	height: 189px;
+}
+.garant {
+  	position: absolute;
+  	top: 243px;
+  	left: 980px;
+  	line-height: 47px;
+  	text-align: center;
+  	display: inline-block;
+  	width: 383px;
+  	height: 114px;
+}
+.buy {
+  	width: 100%;
+  	position: relative;
+  	background-color: #646464;
+  	height: 832px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 40px;
+  	color: #fff;
+  	font-family: Montserrat;
+}
+
